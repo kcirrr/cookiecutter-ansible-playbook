@@ -1,0 +1,4 @@
+---
+- name: common
+  scm: git
+  src: 'git@github.com:kcirrr/ansible-role-common.git'

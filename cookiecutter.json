@@ -1,0 +1,5 @@
+{
+  "playbook_name": "Ansible Playbook",
+  "playbook_slug": "{{ cookiecutter.playbook_name.lower().replace(' ', '-') }}",
+  "server_name": "test.example.com"
+}

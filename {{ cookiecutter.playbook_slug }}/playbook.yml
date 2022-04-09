@@ -1,0 +1,5 @@
+---
+- hosts: {{ cookiecutter.server_name }}
+
+  roles:
+    - { role: common, tags: ["common"] }

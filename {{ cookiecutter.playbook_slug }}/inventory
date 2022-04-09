@@ -1,0 +1,3 @@
+# Hosts file
+[all]
+{{ cookiecutter.server_name }} ansible_host=IP
